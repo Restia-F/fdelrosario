@@ -8,4 +8,4 @@ Hi i am Frankie A. Delrosario and currently studying at City College of Angeles 
  Elementary: M.Nepo Muceno Elementary School
 
  ## My Projects:
- Midterm Lab Task 1:[Data Cleaning and Operation](
+ Midterm Lab Task 1:[Data Cleaning and Operation](main/Midterm%20Task%201)
