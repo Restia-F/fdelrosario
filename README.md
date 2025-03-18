@@ -10,3 +10,4 @@ Hi i am Frankie A. Delrosario and currently studying at City College of Angeles 
  ## My Projects:
  - Midterm Lab Task 1:[Data Cleaning and Operation](Midterm%20Task%201)
  - Midterm Lab Task 2:[Data Cleaning and Operation using Power Query](Midterm%20Task%202)
+ - Midterm Lab Task 3:[Creating Pivot Table and Dashboard](Midterm%20Task%203)
