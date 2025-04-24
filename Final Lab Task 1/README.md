@@ -31,7 +31,7 @@
 ![screenshot](image/Department_tbl.png)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](image/Employee_dept.png)
 #### Table:
 ![screenshot]()
 ### Task 4:
