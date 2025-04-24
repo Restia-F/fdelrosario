@@ -9,6 +9,8 @@
   ## Task 5:
 - Sort courses by students enrolled in ascending order
 
-# Task 1:
+### Task 1:
 - Querry:
-- !screenshot
+![screenshot](image/Task%201.png)
+- Table:
+![screenshot](image/Task%201_tbl.png)
