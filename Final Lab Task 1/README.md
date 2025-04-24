@@ -28,7 +28,7 @@
 #### Query:
 ![screenshot](image/Department.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Department_tbl.png)
 ### Task 3:
 #### Query:
 ![screenshot]()
