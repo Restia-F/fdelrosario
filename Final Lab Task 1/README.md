@@ -26,7 +26,7 @@
 ![screenshot](image/Employee_tbl.png)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](image/Department.png)
 #### Table:
 ![screenshot]()
 ### Task 3:
