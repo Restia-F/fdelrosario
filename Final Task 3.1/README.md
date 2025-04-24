@@ -10,7 +10,31 @@
 - Sort courses by students enrolled in ascending order
 
 ### Task 1:
-- Querry:
+#### Querry:
 ![screenshot](image/Task%201.png)
-- Table:
+#### Table:
 ![screenshot](image/Task%201_tbl.png)
+
+### Task 2:
+#### Querry:
+![screenshot](image/Task%202.png)
+#### Table:
+![screenshot](image/Task%202_tbl.png)
+
+### Task 3:
+#### Querry:
+![screenshot](image/Task%203.png)
+#### Table:
+![screenshot](image/Task%203_tbl.png)
+
+### Task 4:
+#### Querry:
+![screenshot](image/Task%204.png)
+#### Table:
+![screenshot](image/Task%204_tbl.png)
+
+### Task 5:
+#### Querry:
+![screenshot](image/Task%205.png)
+#### Table:
+![screenshot](image/Task%205_tbl.png)
