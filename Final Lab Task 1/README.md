@@ -21,7 +21,7 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](image/Employee.png)
 #### Table:
 ![screenshot]()
 ### Task 2:
