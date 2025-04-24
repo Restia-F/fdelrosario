@@ -33,16 +33,16 @@
 #### Query:
 ![screenshot](image/Employee_dept.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Employee_dept_tbl.png)
 ### Task 4:
 #### Query:
-![screenshot]()
+![screenshot](image/Employee_proj.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Employee_proj_tbl.png)
 ### Task 5:
 #### Query:
-![screenshot]()
+![screenshot](image/Manager.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Manager_tbl.png)
 ## ER Diagram:
-![screenshot]()
+![screenshot](image/ER_DIAGRAM.png)
