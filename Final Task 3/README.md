@@ -20,19 +20,19 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](image/Product.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Product_tbl.png)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](image/Task%202.png)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](image/Task%203.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Task%203_tbl.png)
 ## Task 4:
 #### Query:
-![screenshot]()
+![screenshot](image/Task%204.png)
 #### Table
-![screenshot]()
+![screenshot](image/Task%204_tbl.png)
