@@ -23,7 +23,7 @@
 #### Query:
 ![screenshot](image/Employee.png)
 #### Table:
-![screenshot]()
+![screenshot](image/Employee_tbl.png)
 ### Task 2:
 #### Query:
 ![screenshot]()
