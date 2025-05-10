@@ -1,7 +1,7 @@
 # fdelrosario
 Describe the Portfolio~
 ## About Me:
-Hi i am Frankie A. Delrosario and currently studying at City College of Angeles Bachelor of Science in Information Systems.
+Hi, i am Frankie A. Delrosario and currently studying at City College of Angeles Bachelor of Science in Information Systems.
 ## Education:
  -College: City College of Angeles (BSIS)
  -High School: Angelest City National Trade School
