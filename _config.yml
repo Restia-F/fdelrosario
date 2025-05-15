@@ -1,89 +1,45 @@
-// siteConfig.js
-
-const siteConfig = {
-  name: "Frankie A. Del Rosario",
-  title: "Frankie A. Del Rosario's EDM Portfolio",
-  email: "fdelrosario24-0525@cca.edu.ph",
-  imageUrl: "https://avatars.githubusercontent.com/u/201305156?s=400&u=4097de5c6ecde91ffff528d1fc86085e86e0f41a&v=4",
-  githubRepo: "https://github.com/jrecapor/EDM-John-Paul",
-
-  background: {
-    color: "#121212",
-    image: "https://gifdb.com/images/high/data-circuit-background-ht35fdefmne6n1dv.gif",
-    attachment: "fixed",
-    position: "center",
-    size: "cover"
-  },
-
-  navigation: [
-    { label: "Home", href: "#home" },
-    { label: "About Me", href: "#about" },
-    { label: "Projects", href: "#projects" },
-    { label: "Contact", href: "#contact" }
-  ],
-
-  hero: {
-    heading: "Welcome to My EDM Tasks Portfolio 💾",
-    description: "This Portfolio Contains all of my documents in EDM."
-  },
-
-  about: {
-    image: "https://avatars.githubusercontent.com/u/201305156?s=400&u=4097de5c6ecde91ffff528d1fc86085e86e0f41a&v=4",
-    text: "I am Frankie A. Del Rosario, currently studying at City College of Angeles, taking Bachelor of Science in Information System."
-  },
-
-  education: {
-    college: "Currently Studying at City College of Angeles",
-    highSchool: "Eastern Porac National High School",
-    elementary: "Manibaug Libutad Elementary School"
-  },
-
-  midtermProjects: [
-    {
-      title: "Midterm Lab Task 1",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm"
+{
+  "portfolio": {
+    "name": "Frankie A. Del Rosario",
+    "email": "fdelrosario24-0525@cca.edu.ph",
+    "github": "https://github.com/Restia-F/fdelrosario",
+    "hero_image": "https://avatars.githubusercontent.com/u/201305156?s=400&u=4097de5c6ecde91ffff528d1fc86085e86e0f41a&v=4",
+    "about": {
+      "bio": "I am Frankie A. Del Rosario, currently studying at City College of Angeles with a course in Bachelor of Science in Information System."
     },
-    {
-      title: "Midterm Lab Task 2",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%202"
-    },
-    {
-      title: "Midterm Lab Task 3",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%203"
+    "projects": {
+      "midterm": [
+        {
+          "title": "Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL",
+          "url": "https://github.com/JDelosReyes27/Nunoypogi123/tree/main/Midterm%20Task%201"
+        },
+        {
+          "title": "Midterm Lab Task 2: Data Cleaning and Preparation using Power Query",
+          "url": "https://github.com/jdelosreyes/EDM-Jerome/tree/main/Midterm%20Task%202"
+        },
+        {
+          "title": "Midterm Lab Task 3: Creating PIVOT TABLE and DASHBOARD",
+          "url": "https://github.com/jdelosreyes/EDM-Jerome/tree/main/Midterm%20Task%203"
+        }
+      ],
+      "finals": [
+        {
+          "title": "Finals Lab Task 1:: Data Cleaning and Preparation using EXCEL",
+          "url": "https://github.com/Restia-F/fdelrosario/tree/main/Final%20Lab%20Task%201"
+        },
+        {
+          "title": "Finals Lab Task 2: Data Cleaning and Preparation using Power Query",
+          "url": "https://github.com/Restia-F/fdelrosario/tree/main/Final%20Task%202"
+        },
+        {
+          "title": "Finals Lab Task 3: Creating PIVOT TABLE and DASHBOARD",
+          "url": "https://github.com/Restia-F/fdelrosario/tree/main/Final%20Task%203"
+        },
+        {
+          "title": "Finals Lab Task 5: Creating PIVOT TABLE and DASHBOARD",
+          "url": "https://github.com/Restia-F/fdelrosario/tree/main/Final%20Task%203.1"
+        }
+      ]
     }
-  ],
-
-  finalProjects: [
-    {
-      title: "Finals Lab Task 1",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%201"
-    },
-    {
-      title: "Finals Lab Task 2",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%202"
-    },
-    {
-      title: "Finals Lab Task 3",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203"
-    },
-    {
-      title: "Finals Lab Task 3-1",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203-1"
-    },
-    {
-      title: "Finals Lab Task 5",
-      url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%205"
-    }
-  ],
-
-  contact: {
-    email: "fdelrosario24-0525@cca.edu.ph"
-  },
-
-  footer: {
-    copyright: "© 2025 Frankie A. Del Rosario. All rights reserved.",
-    github: "https://github.com/jrecapor/EDM-John-Paul"
   }
-};
-
-export default siteConfig;
+}
