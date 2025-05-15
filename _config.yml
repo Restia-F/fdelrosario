@@ -1,49 +1,56 @@
-{
-  "siteTitle": "Frankie A. Del Rosario",
-  "headerTitle": "Frankie A. Del Rosario",
-  "backgroundImage": "https://i.pinimg.com/originals/f4/fd/1c/f4fd1c79d428bc90ea8265d7f5c2b6e5.gif",
-  "welcomeMessage": "Welcome to My EDM Tasks Portfolio 💾",
-  "welcomeDescription": "This portfolio contains all of my documents in EDM.",
-  "about": {
-    "name": "Frankie A. Del Rosario",
-    "bio": "I am Frankie A. Del Rosario, currently studying at City College of Angeles, taking Bachelor of Science in Information System.",
-    "image": "https://github.com/user-attachments/assets/dff3da4f-90cd-4ad0-bd46-f4876ae9b835"
-  },
-  "education": {
-    "college": "City College of Angeles",
-    "highSchool": "Eastern Porac National High School",
-    "elementary": "Manibaug Libutad Elementary School"
-  },
-  "midtermProjects": [
-    {
-      "title": "Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL",
-      "link": "#"
+// config.js
+
+const siteConfig = {
+    name: "Frankie A. Del Rosario",
+    title: "Frankie A. Del Rosario's EDM Portfolio",
+    email: "fdelrosario24-0525@cca.edu.ph",
+    imageUrl: "https://avatars.githubusercontent.com/u/201305156?s=400&u=4097de5c6ecde91ffff528d1fc86085e86e0f41a&v=4",
+    githubRepo: "https://github.com/jrecapor/EDM-John-Paul",
+
+    education: {
+        college: "City College of Angeles",
+        highSchool: "Eastern Porac National High School",
+        elementary: "Manibaug Libutad Elementary School"
     },
-    {
-      "title": "Midterm Lab Task 2: Data Cleaning and Preparation using Power Query",
-      "link": "#"
-    },
-    {
-      "title": "Midterm Lab Task 3: Creating PIVOT TABLE and DASHBOARD",
-      "link": "#"
-    }
-  ],
-  "finalProjects": [
-    {
-      "title": "Finals Lab Task 1: Excel Data Cleaning",
-      "link": "#"
-    },
-    {
-      "title": "Finals Lab Task 2: Power Query",
-      "link": "#"
-    },
-    {
-      "title": "Finals Lab Task 3: Dashboarding",
-      "link": "#"
-    }
-  ],
-  "contact": {
-    "email": "jrecapor24-0115@cca.edu.ph"
-  },
-  "footer": "© 2025 Frankie A. Del Rosario. All rights reserved."
-}
+
+    midtermProjects: [
+        {
+            title: "Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm"
+        },
+        {
+            title: "Midterm Lab Task 2: Data Cleaning and Preparation using Power Query",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%202"
+        },
+        {
+            title: "Midterm Lab Task 3: Creating PIVOT TABLE and DASHBOARD",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%203"
+        }
+    ],
+
+    finalProjects: [
+        {
+            title: "Finals Lab Task 1: Data Cleaning and Preparation using EXCEL",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%201"
+        },
+        {
+            title: "Finals Lab Task 2: Power Query",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%202"
+        },
+        {
+            title: "Finals Lab Task 3: Dashboarding",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203"
+        },
+        {
+            title: "Finals Lab Task 3-1: Dashboarding",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203-1"
+        },
+        {
+            title: "Finals Lab Task 5: Dashboarding",
+            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%205"
+        }
+    ]
+};
+
+export default siteConfig;
+
