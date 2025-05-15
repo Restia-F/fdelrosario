@@ -1,56 +1,7 @@
-// config.js
-
-const siteConfig = {
-    name: "Frankie A. Del Rosario",
-    title: "Frankie A. Del Rosario's EDM Portfolio",
-    email: "fdelrosario24-0525@cca.edu.ph",
-    imageUrl: "https://avatars.githubusercontent.com/u/201305156?s=400&u=4097de5c6ecde91ffff528d1fc86085e86e0f41a&v=4",
-    githubRepo: "https://github.com/jrecapor/EDM-John-Paul",
-
-    education: {
-        college: "City College of Angeles",
-        highSchool: "Eastern Porac National High School",
-        elementary: "Manibaug Libutad Elementary School"
-    },
-
-    midtermProjects: [
-        {
-            title: "Midterm Lab Task 1: Data Cleaning and Preparation using EXCEL",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm"
-        },
-        {
-            title: "Midterm Lab Task 2: Data Cleaning and Preparation using Power Query",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%202"
-        },
-        {
-            title: "Midterm Lab Task 3: Creating PIVOT TABLE and DASHBOARD",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Midterm%20Task%203"
-        }
-    ],
-
-    finalProjects: [
-        {
-            title: "Finals Lab Task 1: Data Cleaning and Preparation using EXCEL",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%201"
-        },
-        {
-            title: "Finals Lab Task 2: Power Query",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%202"
-        },
-        {
-            title: "Finals Lab Task 3: Dashboarding",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203"
-        },
-        {
-            title: "Finals Lab Task 3-1: Dashboarding",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%203-1"
-        },
-        {
-            title: "Finals Lab Task 5: Dashboarding",
-            url: "https://github.com/jrecapor/EDM-John-Paul/tree/main/Final%20Task%205"
-        }
-    ]
-};
-
-export default siteConfig;
+Title: WELCOME TO FRANKIE A DEL ROSARIO PORTHFOLIO IN EDM
+show_download: true
+#theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+jekyll-remote-theme # add this line to the plugins
 
