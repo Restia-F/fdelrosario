@@ -2,83 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Midterm Lab Task 1 - Data Cleaning</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Frankie A. Del Rosario - Gradient Design</title>
   <style>
-    body {
+    body, html {
       margin: 0;
       padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to right, #121212, #1e1e1e);
-      color: #f0f0f0;
-      line-height: 1.6;
+      height: 100%;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #a1c4fd, #c2e9fb);
+      background-size: 400% 400%;
+      animation: gradientShift 12s ease infinite;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: #fff;
+    }
+
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
 
     .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 2rem;
-      background: rgba(255, 255, 255, 0.03);
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-      border-radius: 10px;
+      background-color: rgba(0, 0, 0, 0.3);
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);
     }
 
-    h1, h2 {
-      color: #00ffcc;
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     }
 
-    img {
-      width: 100%;
-      max-width: 800px;
-      border: 1px solid #444;
-      margin: 1rem 0;
-      border-radius: 5px;
-    }
-
-    code {
-      background: #222;
-      padding: 2px 5px;
-      border-radius: 3px;
-      color: #66ff66;
-    }
-
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
+    p {
+      font-size: 1.2em;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>"https://github.com/Restia-F/fdelrosario/tree/main/Midterm%20Task%201" Midterm Lab Task 1 - Data Cleaning and Preparation using Excel</h1>
-
-    <p>For this task we are given a Flat data from Excel (See rawfile) and we are tasked to perform Data Cleaning and Preparation.</p>
-
-    <h2>STEP 1: Data Cleaning Process</h2>
-    <ul>
-      <li>Load the raw file</li>
-      <li>Fit column and row width and height</li>
-      <li>TRIM extra spaces</li>
-      <li>Remove <code>NULL</code> values</li>
-      <li>Remove Duplicates</li>
-    </ul>
-
-    <h2>STEP 2: Normalization</h2>
-    <ul>
-      <li>Performed <strong>1NF</strong></li>
-      <li>Performed Table split using <strong>2NF</strong></li>
-      <li>Performed <strong>3NF</strong></li>
-      <li>Mapped the normalized tables as a Physical Data Model</li>
-    </ul>
-
-    <h2>STEP 3: Screenshot Before Data Cleaning</h2>
-    <img src="images/Screenshot%202025-03-06%20203603.png" alt="Before Data Cleaning" />
-
-    <h2>STEP 4: Screenshot After Data Cleaning</h2>
-    <img src="images/data.png" alt="After Data Cleaning" />
-
-    <h2>Physical Data Model</h2>
-    <p>📌 (Frankie A. Del Rosario)</p>
+    <h1>Frankie A. Del Rosario</h1>
+    <p>Welcome to my animated gradient design background.</p>
   </div>
 </body>
 </html>
